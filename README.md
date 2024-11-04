@@ -1,59 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>School Management System API Documentation</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        h1 {
-            text-align: center;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            padding: 5px 0;
-        }
-        .section-title {
-            font-size: 1.2em;
-            font-weight: bold;
-            color: #0056b3;
-            margin-top: 20px;
-        }
-        code {
-            background-color: #eee;
-            padding: 2px 4px;
-            font-size: 0.95em;
-            color: #d14;
-        }
-        .footer {
-            text-align: center;
-            padding: 10px;
-            font-size: 0.9em;
-            color: #666;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>📋 ASP.NET Core Web API for School Management System</h1>
+<h1>📋 ASP.NET Core Web API for School Management System</h1>
 
         <p>This project is an <strong>ASP.NET Core Web API</strong> designed to manage a comprehensive school system. It organizes student, teacher, and guardian data, covering classes, buildings, rooms, campuses, sections, shifts, and curriculum management. This API supports CRUD operations and efficiently handles master-detail relationships for complex associations within the school system.</p>
 
@@ -136,5 +81,3 @@
     <div class="footer">
         <p>© 2024 School Management System API Documentation</p>
     </div>
-</body>
-</html>
