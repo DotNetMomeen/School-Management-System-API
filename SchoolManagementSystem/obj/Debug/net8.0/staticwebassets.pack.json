@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Momeen Hossain Rony\\OneDrive\\Desktop\\SMS Final Project\\SMS API\\SchoolManagementSystem\\wwwroot\\Images\\638660228716856367.jpg",
+      "PackagePath": "staticwebassets\\Images\\638660228716856367.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Momeen Hossain Rony\\OneDrive\\Desktop\\SMS Final Project\\SMS API\\SchoolManagementSystem\\wwwroot\\Images\\638660265205299903.jpg",
+      "PackagePath": "staticwebassets\\Images\\638660265205299903.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Momeen Hossain Rony\\OneDrive\\Desktop\\SMS Final Project\\SMS API\\SchoolManagementSystem\\wwwroot\\Images\\638660265715490779.webp",
+      "PackagePath": "staticwebassets\\Images\\638660265715490779.webp"
+    },
+    {
+      "Id": "C:\\Users\\Momeen Hossain Rony\\OneDrive\\Desktop\\SMS Final Project\\SMS API\\SchoolManagementSystem\\wwwroot\\Images\\638660266481139992.webp",
+      "PackagePath": "staticwebassets\\Images\\638660266481139992.webp"
+    },
+    {
+      "Id": "C:\\Users\\Momeen Hossain Rony\\OneDrive\\Desktop\\SMS Final Project\\SMS API\\SchoolManagementSystem\\wwwroot\\Images\\638660267110912472.jpg",
+      "PackagePath": "staticwebassets\\Images\\638660267110912472.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SchoolManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SchoolManagementSystem.props",
+      "PackagePath": "build\\SchoolManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SchoolManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\SchoolManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SchoolManagementSystem.props",
+      "PackagePath": "buildTransitive\\SchoolManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
