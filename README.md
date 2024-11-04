@@ -1,32 +1,3 @@
-<title>ASP.NET Core Web API for School Management System</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        code {
-            background-color: #e3e3e3;
-            padding: 2px 5px;
-            border-radius: 3px;
-            font-size: 90%;
-        }
-        pre {
-            background-color: #e8f4f8;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
-</head>
-<body>
-
 <h1>📋 ASP.NET Core Web API for School Management System</h1>
 
 <p>This project is an <strong>ASP.NET Core Web API</strong> built to streamline the management of a comprehensive school system. With a focus on organizing student, teacher, and guardian data, it incorporates classes, buildings, rooms, campuses, sections, shifts, and curriculum management. The API supports CRUD operations (Create, Read, Update, Delete) for various entities and implements a master-detail relationship for efficiently handling associations like student-guardian and class-subject relations.</p>
